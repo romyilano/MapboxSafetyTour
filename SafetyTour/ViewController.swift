@@ -78,7 +78,8 @@ class ViewController: UIViewController {
         super.viewWillAppear(animated)
         
         let configuration = ARWorldTrackingConfiguration()
-        configuration.worldAlignment = .gravityAndHeading
+        // this causes a weird bug
+        // configuration.worldAlignment = .gravityAndHeading
         
         sceneView.session.run(configuration)
     }
