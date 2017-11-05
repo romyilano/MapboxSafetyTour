@@ -5,6 +5,7 @@ mapbox_access_token
 *.DS_Store
 .AppleDouble
 .LSOverride
+Pods/
 
 # Icon must end with two \r
 Icon
