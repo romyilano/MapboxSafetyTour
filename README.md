@@ -1,5 +1,7 @@
 ## ARKit POI Tour Example
 
+* [https://blog.mapbox.com/mapbox-arkit-for-a-safer-commute-99a0b1fc56a](https://blog.mapbox.com/mapbox-arkit-for-a-safer-commute-99a0b1fc56a)
+
 This application demonstrates how to use iOS APIs like ARKit, location services, and notifications along with [Mapbox + ARKit](https://github.com/mapbox/mapbox-arkit-ios) and the [Mapbox Maps SDK for iOS](https://github.com/mapbox/mapbox-gl-native) to visualize points of interest in the real world. In this example, a data set of pedestrian + traffic incidents in San Francisco, CA, USA is used to help users get a sense of their surroundings in that particular area.
 
 The demo includes a copy of all dependencies so you should be able to compile and run it using Xcode 9 and iOS 11 (this demo was written before the public release of Xcode 9 and iOS 11 and was tested using Xcode 9 b6 and iOS 11 b10).
