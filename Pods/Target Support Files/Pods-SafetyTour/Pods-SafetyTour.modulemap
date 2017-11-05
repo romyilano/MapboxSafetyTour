@@ -1,0 +1,6 @@
+framework module Pods_SafetyTour {
+  umbrella header "Pods-SafetyTour-umbrella.h"
+
+  export *
+  module * { export * }
+}

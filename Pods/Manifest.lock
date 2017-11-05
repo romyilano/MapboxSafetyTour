@@ -5,7 +5,7 @@ PODS:
   - Turf-swift (0.0.1)
 
 DEPENDENCIES:
-  - Mapbox-iOS-SDK (= 3.6.2)
+  - Mapbox-iOS-SDK
   - MapboxARKit (from `https://github.com/mapbox/mapbox-arkit-ios.git`)
   - Turf-swift (from `https://github.com/mapbox/turf-swift.git`)
 
@@ -28,6 +28,6 @@ SPEC CHECKSUMS:
   MapboxARKit: 74de45381756db2a8a6e5302a5d7def006d7a126
   Turf-swift: 2f2da15a9b3415a1dca5362c6e798bc2638435e6
 
-PODFILE CHECKSUM: 42f0ebca5c71cb58c9b2e9d1deefeb9f2437d429
+PODFILE CHECKSUM: 67126f7b0a3e816bdce295ce268f64cf697d4f1d
 
-COCOAPODS: 1.2.1
+COCOAPODS: 1.4.0.beta.2
